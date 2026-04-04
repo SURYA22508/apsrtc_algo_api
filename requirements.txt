@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+networkx
+requests
+python-multipart
