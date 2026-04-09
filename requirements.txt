@@ -3,4 +3,5 @@ uvicorn
 pandas
 networkx
 requests
+folium
 python-multipart
